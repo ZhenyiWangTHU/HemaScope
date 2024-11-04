@@ -1,7 +1,7 @@
 # HemaScope
 A Tool for Analyzing Single-Cell and Spatial Transcriptomics Data of Hematopoietic Cells.
 ## R package & Shiny Application
-* Visit the GitHub repository for the R package and Shiny application: [HemaScopeR](https://github.com/ZhenyiWangTHU/HemaScopeR).
+* Visit the GitHub repository for the R package and Shiny application: [HemaScopeR & HemaScopeShiny](https://github.com/ZhenyiWangTHU/HemaScopeR).
 ## Docker image
 * Access the Docker image here: [HemaScopeDocker](https://hub.docker.com/r/zhenyiwang123/hemascopedocker).
 ## Web server
