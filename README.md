@@ -7,4 +7,4 @@ A Tool for Analyzing Single-Cell and Spatial Transcriptomics Data of Hematopoiet
 ## Web server
 * Connect to the web server at: [HemaScopeCloud](https://hemascope.hiplot.cn/login?component=LoginView).
 ## Tutorial
-* For detailed installation and usage instructions, refer to the [HemaScope Tutorial](https://zhenyiwangthu.github.io/HemaScope_Tutorial/).
+* For detailed installation and usage instructions, refer to: [HemaScope Tutorial](https://zhenyiwangthu.github.io/HemaScope_Tutorial/).
